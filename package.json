@@ -11,6 +11,10 @@
     "test": "jest",
     "build": "webpack"
   },
+  "files" : [
+	  "dist/tpl_project_tpl.js",
+	  "dist/rpl_project_tpl.min.js"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.10.2",
