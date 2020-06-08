@@ -19,9 +19,11 @@ Una mini biblioteca para obtener un [query string](https://en.wikipedia.org/wiki
 
 ## Uso
 ```js
-console.log('some code');
+let something = tpl_project_tpl.get_something();
+console.log(something);
 ```
 
 ## Notas
+  - Este proyecto esta pensado para ser trabajado usando [PhpStorm](https://www.jetbrains.com/phpstorm).
   - Se usa [Jest](https://jestjs.io/) para las pruebas unitarias de código.
-
+  - Para la documentación se utiliza el estilo de [JSDoc](https://jsdoc.app/).
