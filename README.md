@@ -1,27 +1,15 @@
-tpl_company_tpl\tpl_project_tpl
+edwrodrig\template_node_basic
 ========
-Una mini biblioteca para obtener un [query string](https://en.wikipedia.org/wiki/Query_string) como un objeto.
+Biblioteca básica de node
 
-[![Latest Stable Version](https://img.shields.io/npm/v/@tpl_company_tpl/tpl_project_tpl)](https://www.npmjs.com/package/@tpl_company_tpl/tpl_project_tpl)
-[![Total Downloads](https://img.shields.io/npm/dt/@tpl_company_tpl/tpl_project_tpl)](https://www.npmjs.com/package/@tpl_company_tpl/tpl_project_tpl)
-[![License](https://img.shields.io/npm/l/@tpl_company_tpl/tpl_project_tpl)](https://github.com/tpl_company_tpl/tpl_project_tpl/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/tpl_company_tpl/tpl_project_tpl.svg?branch=master)](https://travis-ci.org/tpl_company_tpl/tpl_project_tpl)
-[![codecov.io Code Coverage](https://codecov.io/gh/tpl_company_tpl/tpl_project_tpl/branch/master/graph/badge.svg)](https://codecov.io/github/tpl_company_tpl/tpl_project_tpl?branch=master)
-[![Code Climate](https://codeclimate.com/github/tpl_company_tpl/tpl_project_tpl/badges/gpa.svg)](https://codeclimate.com/github/tpl_company_tpl/tpl_project_tpl)
+[![License](https://img.shields.io/github/license/edwrodrig/template_node_basic)](https://github.com/edwrodrig/template_node_basic/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/edwrodrig/template_node_basic.svg?branch=template)](https://travis-ci.org/edwrodrig/template_node_basic)
+[![codecov.io Code Coverage](https://codecov.io/gh/edwrodrig/template_node_basic/branch/master/graph/badge.svg)](https://codecov.io/github/edwrodrig/template_node_basic?branch=template)
+[![Code Climate](https://codeclimate.com/github/edwrodrig/template_node_basic/badges/gpa.svg)](https://codeclimate.com/github/edwrodrig/template_node_basic)
 ![Hecho en Chile](https://img.shields.io/badge/country-Chile-red)
 
-## Instalación en navegador
-
-```html
-<script src="https://unpkg.com/@tpl_company_tpl/tpl_project_tpl@latest/dist/tpl_project_tpl.js"></script>
-<script src="https://unpkg.com/@tpl_company_tpl/tpl_project_tpl@latest/dist/tpl_project_tpl.min.js"></script>
+## Instalación
+```shell
+curl -s https://raw.githubusercontent.com/edwrodrig/template_node_basic/master/install | \
+bash -s company project
 ```
-
-## Uso
-```js
-console.log('some code');
-```
-
-## Notas
-  - Se usa [Jest](https://jestjs.io/) para las pruebas unitarias de código.
-
