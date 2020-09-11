@@ -13,7 +13,7 @@
   },
   "files" : [
 	  "dist/tpl_project_tpl.js",
-	  "dist/rpl_project_tpl.min.js"
+	  "dist/tpl_project_tpl.min.js"
   ],
   "license": "MIT",
   "devDependencies": {
